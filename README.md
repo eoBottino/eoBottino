@@ -40,11 +40,11 @@
 
 Eu sou **Eduardo Bottino**, tenho **24 anos**, moro no **Brasil** e sou **Desenvolvedor Full-Stack**.
 
-Sou fundador da **C.IAutomatiza**, uma empresa focada em soluções inteligentes de automação, incluindo o **NeuralFlow**, um SaaS completo para **pré-atendimento, captação de leads, sistemas para WhatsApp, fluxos automatizados, atendimento empresarial e ferramentas de performance**.
+Sou fundador da **C.IAutomatiza**, uma empresa focada em soluções inteligentes de automação, incluindo o **NeuralFlow**, um SaaS completo para **pré-atendimento, captação de leads, sistemas para WhatsApp, fluxos automatizados, atendimento empresarial**.
 
-Também sou **Desenvolvedor para o Studio PixelCraft**, atuando na criação e melhoria de sistemas modernos, ferramentas para comunidades, dashboards, soluções para Discord, sites, automações e experiências digitais escaláveis.
+Também sou **Desenvolvedor para o Studio PixelCraft**, atuando na criação e melhoria de sistemas modernos, ferramentas para comunidades, dashboards, soluções para Discord, sites, automações e experiências digitais escaláveis para o seu projeto.
 
-Sou uma pessoa aventureira, gosto de jogar, explorar tecnologias, procurar erros e comportamentos inesperados no Discord, além de estar sempre atento e pronto para ajudar.
+Sou uma pessoa aventureira, gosto de jogar, explorar tecnologias, procurar erros e comportamentos inesperados no Discord, além de estar sempre atento e pronto para ajudar e aperfeiçoar os meus conhecimentos.
 
 <br>
 
@@ -96,8 +96,8 @@ I’m an adventurer by nature. I enjoy gaming, exploring new technologies, findi
 
 ![Automation](https://img.shields.io/badge/-Automation-0D1117?style=for-the-badge&logo=robotframework&logoColor=00bfbf&labelColor=0D1117)
 ![SaaS](https://img.shields.io/badge/-SaaS-0D1117?style=for-the-badge&logo=icloud&logoColor=00bfbf&labelColor=0D1117)
-![WhatsApp Systems](https://img.shields.io/badge/-WhatsApp%20Systems-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117)
-![Discord Bots](https://img.shields.io/badge/-Discord%20Bots-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Systems-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117)
+![Discord](https://img.shields.io/badge/-Discord%20Bots-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)
 ![Full Stack](https://img.shields.io/badge/-Full%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=00bfbf&labelColor=0D1117)
 ![Studio PixelCraft](https://img.shields.io/badge/-Studio%20PixelCraft-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00bfbf&labelColor=0D1117)
 
@@ -152,7 +152,6 @@ I’m an adventurer by nature. I enjoy gaming, exploring new technologies, findi
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 
 </div>
 
@@ -282,7 +281,7 @@ Creation of modern and scalable systems such as:
 <div align="center">
 
 📍 **Brazil**  
-📧 **Email:** ebottino308@gmail.com  
+📧 **Email:** contatobottino@gmail.com 
 💬 **Discord:** eubottino  
 🆔 **Discord ID:** 784213910180986900  
 📸 **Instagram:** [@edubottino](https://www.instagram.com/edubottino/)
