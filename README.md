@@ -109,20 +109,33 @@ I’m an adventurer by nature. I enjoy gaming, exploring new technologies, findi
 
 ## 📊 GitHub Stats
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eoBottino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Bottino GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoBottino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Eduardo Bottino most used languages" />
+<div align="center">
+
+  <a href="https://github.com/eoBottino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eoBottino&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Bottino GitHub stats"/>
+  </a>
+
+  <a href="https://github.com/eoBottino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoBottino&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Eduardo Bottino most used languages"/>
+  </a>
+
 </div>
 
 <br>
 
+<div align="center">
+
 [![Eduardo Bottino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eoBottino&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eoBottino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=eoBottino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Eduardo Bottino GitHub trophies"/>
+
+</div>
 
 <br>
 
@@ -292,12 +305,15 @@ Creation of modern and scalable systems such as:
 
 ---
 
+## 👀 Visitors Count
+
 <div align="center">
-  <p><b>Visitors Count</b></p>  
-  <p>
-    <img align="center" src="https://profile-counter.glitch.me/eoBottino/count.svg" />
-  </p> 
+
+  <img src="https://komarev.com/ghpvc/?username=eoBottino&label=Profile%20views&color=00bfbf&style=for-the-badge" alt="Profile views"/>
+
 </div>
+
+<br>
 
 ---
 
