@@ -24,7 +24,7 @@
 
 ## <img src="./assets/icons/user.svg" height="28" align="absmiddle" alt=""/> Sobre mim
 
-Fala! Eu sou o **Eduardo Bottino**, **24 anos**, do **Brasil** e **Desenvolvedor Full-Stack**.
+Fala pessoal! Eu sou o **Eduardo Bottino**, tenho **24 anos**, do **Brasil** e sou **Desenvolvedor Full-Stack**.
 
 Comecei com automações e chatbots. Hoje mantenho um pequeno universo de empresas, comunidades e sistemas, todos construídos com o mesmo objetivo: **automatizar, conectar e fazer pessoas e negócios crescerem**.
 
@@ -34,7 +34,7 @@ Comecei com automações e chatbots. Hoje mantenho um pequeno universo de empres
 | <img src="./assets/icons/chip.svg" height="24" alt=""/> | **CTO & Dev** | **[PixelCraft Studio](https://pixelcraft-studio.com/)**: sistemas modernos e experiências digitais |
 | <img src="./assets/icons/sparkle.svg" height="24" alt=""/> | **Criador** | **Pixel-Dev** · **[ARISE Gaming](https://arise.discloud.app/)** · **VIRTUS** · **[Gamelandia](https://discord.gg/gamelandia)** |
 
-Sou uma pessoa aventureira: gosto de jogar, explorar tecnologias novas, caçar bugs e comportamentos inesperados no Discord, e estou sempre pronto para ajudar e evoluir.
+Sou uma pessoa aventureira: gosto de jogar, explorar tecnologias novas, caçar bugs e comportamentos inesperados no Discord, e estou sempre pronto para ajudar, aprender e evoluir. Atualmente curso ADS.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -65,7 +65,7 @@ A empresa-mãe do ecossistema. Nasceu com chatbots e com o SaaS **NeuralFlow** (
 
 <a href="https://pixelcraft-studio.com/"><img src="./assets/projects/pixelcraft.svg" width="100%" alt="PixelCraft Studio, CTO e Dev: sistemas modernos e experiências digitais"/></a>
 
-Estúdio focado em criar e evoluir plataformas modernas: sistemas de suporte e tickets, dashboards de comunidade, soluções para Discord, sites e ferramentas de automação, tudo com identidade pixel-style.
+Estúdio focado em criar e evoluir plataformas modernas: desenvolvedores, desing, configuradores, tudo em um só lugar. Aqui você cria o seu servidor, plugin, script e sistemas, com serviços e qualidade profissional.
 
 `Discord` `Web` `Tickets/SAC` `Dashboards` `UX`
 
