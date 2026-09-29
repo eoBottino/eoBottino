@@ -1,241 +1,212 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Eduardo Bottino — Full-Stack Developer" width="100%"/>
-
-<a href="https://github.com/eoBottino">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5E5&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%9A%80+CEO+%40+C.IAutomatiza;%F0%9F%9B%B0%EF%B8%8F+CTO+%26+Dev+%40+PixelCraft+Studio;%E2%9A%99%EF%B8%8F+Automa%C3%A7%C3%A3o+%C2%B7+SaaS+%C2%B7+Bots+%C2%B7+Web+%C2%B7+Games;%F0%9F%9B%A1%EF%B8%8F+Criador+do+VIRTUS+%C2%B7+ARISE+%C2%B7+Pixel-Dev;%E2%9C%A8+Sempre+aprendendo%2C+criando+e+ajudando!" alt="Typing SVG"/>
+<a href="https://ciautomatiza.com.br/dev/portfolio">
+  <img src="./assets/banner.svg" alt="Eduardo Bottino, Desenvolvedor Full-Stack, CEO da C.IAutomatiza e CTO da PixelCraft Studio" width="100%"/>
 </a>
+
+<br>
+
+<a href="https://ciautomatiza.com.br/dev/portfolio"><img src="./assets/buttons/nav-portfolio.svg" height="44" alt="Portfólio"/></a>
+<a href="#ecossistema"><img src="./assets/buttons/nav-ecossistema.svg" height="44" alt="Ecossistema"/></a>
+<a href="#projetos"><img src="./assets/buttons/nav-projetos.svg" height="44" alt="Projetos"/></a>
+<a href="#stack"><img src="./assets/buttons/nav-stack.svg" height="44" alt="Stack"/></a>
+<a href="#contato"><img src="./assets/buttons/nav-contato.svg" height="44" alt="Contato"/></a>
+<a href="#english"><img src="./assets/buttons/nav-english.svg" height="44" alt="English"/></a>
 
 <br><br>
 
-<a href="https://ciautomatiza.com.br/dev/portfolio"><img src="https://img.shields.io/badge/🌌%20PORTFÓLIO-000000?style=for-the-badge&labelColor=000000&color=00bfbf"/></a>
-<a href="#-ecossistema"><img src="https://img.shields.io/badge/🪐%20ECOSSISTEMA-000000?style=for-the-badge&labelColor=000000&color=7c4dff"/></a>
-<a href="#-projetos"><img src="https://img.shields.io/badge/🚀%20PROJETOS-000000?style=for-the-badge&labelColor=000000&color=00bfbf"/></a>
-<a href="#-contato"><img src="https://img.shields.io/badge/📡%20CONTATO-000000?style=for-the-badge&labelColor=000000&color=7c4dff"/></a>
-<a href="#-english"><img src="https://img.shields.io/badge/🇺🇸%20ENGLISH-000000?style=for-the-badge&labelColor=000000&color=00bfbf"/></a>
+<img src="https://img.shields.io/github/followers/eoBottino?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=000000&color=00bfbf" alt="Seguidores no GitHub"/>
+<img src="https://komarev.com/ghpvc/?username=eoBottino&label=Visitantes+da+gal%C3%A1xia&color=7c4dff&style=for-the-badge&labelColor=000000" alt="Visitantes do perfil"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 👨‍🚀 Sobre mim
+## <img src="./assets/icons/user.svg" height="28" align="absmiddle" alt=""/> Sobre mim
 
-Fala! Eu sou o **Eduardo Bottino**, **24 anos**, do **Brasil 🇧🇷** e **Desenvolvedor Full-Stack**.
+Fala! Eu sou o **Eduardo Bottino**, **24 anos**, do **Brasil** e **Desenvolvedor Full-Stack**.
 
-Minha jornada começou com automações e chatbots e hoje virou um pequeno universo de produtos, comunidades e sistemas:
+Comecei com automações e chatbots. Hoje mantenho um pequeno universo de empresas, comunidades e sistemas, todos construídos com o mesmo objetivo: **automatizar, conectar e fazer pessoas e negócios crescerem**.
 
-| 🧭 Missão atual | Onde |
-|:--|:--|
-| 👑 **CEO & Dev** | **[C.IAutomatiza](https://ciautomatiza.com.br)** — automação inteligente, SaaS e segurança |
-| 🛰️ **CTO & Dev** | **PixelCraft Studio** — sistemas modernos, comunidades e experiências digitais |
-| 🧪 **Criador** | **Pixel-Dev · ARISE · VIRTUS** — meus projetos autorais |
+| | Cargo | Onde |
+|:-:|:--|:--|
+| <img src="./assets/icons/crown.svg" height="24" alt=""/> | **CEO & Dev** | **[C.IAutomatiza](https://ciautomatiza.com.br)**: automação inteligente, SaaS e segurança |
+| <img src="./assets/icons/chip.svg" height="24" alt=""/> | **CTO & Dev** | **[PixelCraft Studio](https://pixelcraft-studio.com/)**: sistemas modernos e experiências digitais |
+| <img src="./assets/icons/sparkle.svg" height="24" alt=""/> | **Criador** | **Pixel-Dev** · **[ARISE Gaming](https://arise.discloud.app/)** · **VIRTUS** · **[Gamelandia](https://discord.gg/gamelandia)** |
 
-Sou uma pessoa aventureira: curto jogar, explorar tecnologias novas, caçar bugs e comportamentos inesperados no Discord, e estou sempre pronto para ajudar e evoluir. 🎮🐞
+Sou uma pessoa aventureira: gosto de jogar, explorar tecnologias novas, caçar bugs e comportamentos inesperados no Discord, e estou sempre pronto para ajudar e evoluir.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🌌 Ecossistema
+## <img src="./assets/icons/planet.svg" height="28" align="absmiddle" alt=""/> Ecossistema
 
-Tudo o que construo orbita ao redor da **C.IAutomatiza**:
+Tudo o que construo orbita ao redor da **C.IAutomatiza**. Cada planeta abaixo é um projeto:
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#001a1a','primaryTextColor':'#e6fffe','primaryBorderColor':'#00bfbf','lineColor':'#7c4dff','secondaryColor':'#120a2b','tertiaryColor':'#000000','fontFamily':'monospace'}}}%%
-graph TD
-    E(("👨‍🚀 Eduardo<br/>Bottino")) --> C["🧠 C.IAutomatiza<br/>CEO &amp; Dev"]
-    E --> P["🎨 PixelCraft Studio<br/>CTO &amp; Dev"]
-    E --> D["⚙️ Pixel-Dev"]
-    E --> A["⚔️ ARISE"]
-    C --> V["🛡️ VIRTUS<br/>Segurança"]
-    C --> N["🤖 NeuralFlow<br/>(legado)"]
-    V --> VS["🌐 Site de interação"]
-    V --> VG["🌠 Galáxia VIRTUS"]
-    A --> AB["🤖 Bot"]
-    A --> AS["📊 Site + Dashboard"]
-    A --> AA["📱 APK"]
-    D --> DA["📩 Aplicações"]
-    D --> DB["🤖 Bots"]
-    D --> DS["🖥️ Servidores Discord"]
-```
+<div align="center">
+  <img src="./assets/galaxy.svg" width="100%" alt="Mapa do ecossistema: C.IAutomatiza no centro, com PixelCraft, Pixel-Dev, ARISE, VIRTUS e Gamelandia em órbita"/>
+</div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Projetos
+## <img src="./assets/icons/rocket.svg" height="28" align="absmiddle" alt=""/> Projetos
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Empresas
 
-### 🧠 C.IAutomatiza
-**CEO & Dev** · Automação inteligente e soluções digitais.
+<a href="https://ciautomatiza.com.br"><img src="./assets/projects/ciautomatiza.svg" width="100%" alt="C.IAutomatiza, CEO e Dev: automação inteligente, SaaS e segurança"/></a>
 
-Começou com chatbots e o SaaS **NeuralFlow** (pré-atendimento, captação de leads e fluxos de WhatsApp) e hoje é a empresa-mãe do meu ecossistema.
+A empresa-mãe do ecossistema. Nasceu com chatbots e com o SaaS **NeuralFlow** (pré-atendimento, captação de leads e fluxos automatizados de WhatsApp) e hoje reúne automação, produtos digitais e o sistema de segurança **VIRTUS**.
 
-`Automação` `SaaS` `WhatsApp` `Dashboards` `APIs`
+`Automação` `SaaS` `WhatsApp` `Dashboards` `APIs` `Segurança`
 
-[![Visitar](https://img.shields.io/badge/Visitar-C.IAutomatiza-000000?style=flat-square&labelColor=000000&color=00bfbf)](https://ciautomatiza.com.br)
+<a href="https://ciautomatiza.com.br"><img src="./assets/buttons/go-cia.svg" height="42" alt="Visitar site da C.IAutomatiza"/></a>
+<a href="https://ciautomatiza.com.br/dev/portfolio"><img src="./assets/buttons/go-portfolio.svg" height="42" alt="Ver portfólio"/></a>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### 🎨 PixelCraft Studio
-**CTO & Dev** · Estúdio de sistemas e experiências digitais.
+<a href="https://pixelcraft-studio.com/"><img src="./assets/projects/pixelcraft.svg" width="100%" alt="PixelCraft Studio, CTO e Dev: sistemas modernos e experiências digitais"/></a>
 
-Criação e evolução de plataformas modernas: suporte e tickets, dashboards de comunidade, soluções para Discord, sites e ferramentas de automação com identidade *pixel-style*.
+Estúdio focado em criar e evoluir plataformas modernas: sistemas de suporte e tickets, dashboards de comunidade, soluções para Discord, sites e ferramentas de automação, tudo com identidade pixel-style.
 
 `Discord` `Web` `Tickets/SAC` `Dashboards` `UX`
 
-[![Visitar](https://img.shields.io/badge/Visitar-PixelCraft-000000?style=flat-square&labelColor=000000&color=7c4dff)](LINK_DO_PIXELCRAFT)
+<a href="https://pixelcraft-studio.com/"><img src="./assets/buttons/go-pixelcraft.svg" height="42" alt="Visitar site da PixelCraft Studio"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Projetos autorais
 
-### 🛡️ VIRTUS
-**Sistema de segurança** associado à C.IAutomatiza.
+<img src="./assets/projects/arise.svg" width="100%" alt="ARISE Gaming: comunidade de League of Legends"/>
 
-Conta com um **site de interação** e uma **galáxia** interativa para navegar entre os sites e serviços do projeto.
-
-`Segurança` `Web` `Interação`
-
-[![Site](https://img.shields.io/badge/🌐%20Site-VIRTUS-000000?style=flat-square&labelColor=000000&color=00bfbf)](LINK_DO_SITE_VIRTUS)
-[![Galáxia](https://img.shields.io/badge/🌠%20Galáxia-VIRTUS-000000?style=flat-square&labelColor=000000&color=7c4dff)](LINK_DA_GALAXIA_VIRTUS)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ ARISE
-**Comunidade de jogadores de League of Legends.**
-
-Ecossistema completo: **Bot** para Discord, **site com dashboard** e **APK**, integrados à **API da Riot** para dados de jogadores, partidas personalizadas, eventos e jogos em grupo.
+Comunidade para jogadores de **League of Legends**, com ecossistema próprio: **Bot** para Discord, **site com dashboard** e **APK**, todos integrados à **API da Riot** para dados de jogadores, partidas personalizadas, eventos e jogos em grupo.
 
 `League of Legends` `Riot API` `Bot` `Dashboard` `Android`
 
-[![Site](https://img.shields.io/badge/🌐%20Site-ARISE-000000?style=flat-square&labelColor=000000&color=7c4dff)](LINK_DO_SITE_ARISE)
+<a href="https://arise.discloud.app/"><img src="./assets/buttons/go-arise.svg" height="42" alt="Acessar o site da ARISE Gaming"/></a>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br>
 
-### ⚙️ Pixel-Dev
-**Sistema automatizado** para **aplicações, bots e servidores de Discord**: tickets, logs e moderação, automod, giveaways, economia, jogos, cargos e dashboards de servidor.
+<img src="./assets/projects/gamelandia.svg" width="100%" alt="Gamelandia: servidor e comunidade para gamers"/>
+
+Servidor e comunidade completa para **jogos e jogadores entusiastas**: eventos, partidas, bate-papo e muita diversão.
+
+`Comunidade` `Discord` `Jogos` `Eventos`
+
+<a href="https://discord.gg/gamelandia"><img src="./assets/buttons/go-gamelandia.svg" height="42" alt="Entrar no Discord da Gamelandia"/></a>
+
+<br>
+
+<img src="./assets/projects/virtus.svg" width="100%" alt="VIRTUS: sistema de segurança da C.IAutomatiza"/>
+
+Meu sistema de segurança associado à **C.IAutomatiza**. Conta com um **site de interação** e uma **galáxia** interativa que reúne o acesso a todos os sites do projeto.
+
+`Segurança` `Web` `Interação`
+
+<br>
+
+<img src="./assets/projects/pixel-dev.svg" width="100%" alt="Pixel-Dev: aplicações, bots e servidores para Discord"/>
+
+Sistema automatizado de **aplicações, bots e servidores para Discord**: tickets, logs e moderação, automod, giveaways, economia, jogos, gestão de cargos e dashboards de servidor.
 
 `Discord` `Automação` `Bots` `Moderação` `Economia`
 
-[![Ver](https://img.shields.io/badge/Ver-Pixel--Dev-000000?style=flat-square&labelColor=000000&color=00bfbf)](LINK_DO_PIXELDEV)
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 🛠️ Stack
+## <img src="./assets/icons/layers.svg" height="28" align="absmiddle" alt=""/> Stack
 
 <div align="center">
 
-**Linguagens & Front-end**<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+**Linguagens e Front-end**<br>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
 
-**Back-end & Bancos de dados**<br>
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=0F80CC)
+**Back-end e Bancos de dados**<br>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=0F80CC" alt="SQLite"/>
 
-**Integrações & Plataformas**<br>
-![Discord](https://img.shields.io/badge/-Discord%20Bots-000000?style=for-the-badge&logo=discord&logoColor=5865F2)
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![Riot API](https://img.shields.io/badge/-Riot%20API-000000?style=for-the-badge&logo=riotgames&logoColor=D32936)
-![Android](https://img.shields.io/badge/-Android%20APK-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
+**Integrações e Plataformas**<br>
+<img src="https://img.shields.io/badge/-Discord%20Bots-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Bots"/>
+<img src="https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/-Riot%20API-000000?style=for-the-badge&logo=riotgames&logoColor=D32936" alt="Riot API"/>
+<img src="https://img.shields.io/badge/-Android%20APK-000000?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android APK"/>
 
 **Ferramentas**<br>
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<img src="https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows"/>
+<img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 Painel de bordo
-
-<div align="center">
-
-<a href="https://github.com/eoBottino">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eoBottino&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00e5e5&icon_color=b388ff&text_color=c9d1d9&ring_color=00bfbf&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/eoBottino">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoBottino&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=00e5e5&text_color=c9d1d9&cache_seconds=86400" alt="Top languages"/>
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=eoBottino&theme=dark&hide_border=true&background=000000&ring=00bfbf&fire=b388ff&currStreakLabel=00e5e5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="Streak" height="170"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eoBottino&bg_color=000000&color=00e5e5&line=7c4dff&point=ffffff&area=true&area_color=00bfbf&hide_border=true&title_color=00e5e5" alt="Activity graph" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eoBottino&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 📡 Contato
+## <img src="./assets/icons/chart.svg" height="28" align="absmiddle" alt=""/> Painel de bordo
 
 <div align="center">
 
-<a href="https://ciautomatiza.com.br/dev/portfolio"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=00bfbf"/></a>
-<a href="mailto:contatobottino@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-<a href="https://github.com/eoBottino"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/edubottino/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-<a href="https://discord.com/users/784213910180986900"><img src="https://img.shields.io/badge/-Discord:%20eubottino-000000?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<img src="https://streak-stats.demolab.com?user=eoBottino&theme=dark&hide_border=true&background=000000&ring=00e5e5&fire=b388ff&currStreakLabel=00e5e5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&locale=pt_BR" alt="Sequência de contribuições" height="170"/>
 
 <br><br>
 
-📍 **Brasil** &nbsp;·&nbsp; 📧 contatobottino@gmail.com &nbsp;·&nbsp; 💬 Discord: `eubottino`
-
-<br>
-
-🎮 Gaming &nbsp;•&nbsp; 🧭 Explorando ideias &nbsp;•&nbsp; 🐞 Caçando bugs &nbsp;•&nbsp; 💬 Ajudando pessoas &nbsp;•&nbsp; 🚀 Construindo projetos escaláveis
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eoBottino/eoBottino/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/eoBottino/eoBottino/output/github-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%"/>
+</picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🇺🇸 English
+## <img src="./assets/icons/satellite.svg" height="28" align="absmiddle" alt=""/> Contato
 
-<details>
-<summary><b>🛰️ Click to expand the English version</b></summary>
+<div align="center">
+
+Quer conversar, montar um projeto ou entrar na comunidade? Manda um sinal.
 
 <br>
 
-### 👨‍🚀 About me
+<a href="https://ciautomatiza.com.br/dev/portfolio"><img src="./assets/buttons/go-portfolio.svg" height="42" alt="Ver portfólio"/></a>
+<a href="https://discord.gg/gamelandia"><img src="./assets/buttons/go-gamelandia.svg" height="42" alt="Entrar no Discord da Gamelandia"/></a>
+
+<br><br>
+
+<a href="mailto:contatobottino@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/></a>
+<a href="https://github.com/eoBottino"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/edubottino/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://discord.com/users/784213910180986900"><img src="https://img.shields.io/badge/-Discord:%20eubottino-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+
+<br><br>
+
+**Brasil** · contatobottino@gmail.com · Discord: `eubottino`
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/globe.svg" height="28" align="absmiddle" alt=""/> English
+
+<details>
+<summary><b>Click to expand the English version</b></summary>
+
+<br>
 
 I'm **Eduardo Bottino**, 24, from **Brazil**, and a **Full-Stack Developer**.
 
-- 👑 **CEO & Dev at [C.IAutomatiza](https://ciautomatiza.com.br)**: intelligent automation, SaaS and security solutions (started with chatbots and the NeuralFlow SaaS).
-- 🛰️ **CTO & Dev at PixelCraft Studio**: modern systems, community tools, dashboards and scalable digital experiences.
-- 🧪 **Creator of my own projects:**
+- **CEO & Dev at [C.IAutomatiza](https://ciautomatiza.com.br)**: intelligent automation, SaaS and security (it started with chatbots and the NeuralFlow SaaS for lead capture and WhatsApp flows).
+- **CTO & Dev at [PixelCraft Studio](https://pixelcraft-studio.com/)**: modern systems, community tools, dashboards and scalable digital experiences.
+- **Creator of my own projects:**
   - **Pixel-Dev**: automated system for applications, bots and Discord servers.
-  - **ARISE**: League of Legends community with a Bot, a website with dashboard and an Android APK powered by the Riot API (custom games, events, group matches).
-  - **VIRTUS**: security system tied to C.IAutomatiza, with an interaction website and a galaxy hub linking all its sites.
+  - **[ARISE Gaming](https://arise.discloud.app/)**: a League of Legends community with a Discord bot, a website with dashboard and an Android APK, all powered by the Riot API (custom games, events and group matches).
+  - **VIRTUS**: a security system tied to C.IAutomatiza, with an interaction website and a galaxy hub that links all of its sites.
+  - **[Gamelandia](https://discord.gg/gamelandia)**: a complete server and community for gamers and gaming enthusiasts.
 
 I'm an adventurer by nature: I love gaming, exploring new tech, hunting bugs and unusual behaviors on Discord, and I'm always ready to help, learn and build something better.
 
@@ -245,8 +216,4 @@ I'm an adventurer by nature: I love gaming, exploring new tech, hunting bugs and
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eoBottino&label=Visitantes+da+galáxia&color=00bfbf&style=for-the-badge&labelColor=000000" alt="Profile views"/>
-</div>
-
-<img src="./assets/footer.svg" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="Construindo automação, sistemas e experiências digitais que ajudam pessoas e negócios a crescer"/>
