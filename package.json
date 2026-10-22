@@ -1,0 +1,8 @@
+{
+  "name": "eobottino-profile",
+  "private": true,
+  "type": "module",
+  "description": "Assets SVG do perfil, gerados por código próprio (sem dependências).",
+  "scripts": { "build": "node tools/build-assets.mjs" },
+  "engines": { "node": ">=20" }
+}
