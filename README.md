@@ -73,9 +73,9 @@ A empresa-mãe do ecossistema. Nasceu com chatbots e com o SaaS **NeuralFlow** (
 
 <br>
 
-<a href="https://pixelcraft-studio.com/"><img src="./assets/cards/pixelcraft.svg" width="100%" alt="PixelCraft Studio: CTO e Dev, sistemas e experiências digitais"/></a>
+<a href="https://pixelcraft-studio.com/"><img src="./assets/cards/pixelcraft.svg" width="100%" alt="PixelCraft Studio: CTO e Dev, serviços para diversos jogos"/></a>
 
-Estúdio focado em criar e evoluir plataformas modernas: desenvolvedores, design, configuradores, tudo em um só lugar. Aqui você cria o seu servidor, plugin, script e sistemas, com serviços e qualidade profissional.
+Estúdio focado em desenvolver para servidores de jogos como Minecraft, Ragnarok, Mu, Metin 2, Hytale, GTA e muito mais!
 
 `Discord` `Web` `Tickets/SAC` `Dashboards` `UX`
 
@@ -93,7 +93,7 @@ Sistema de **cybersecurity** da C.IAutomatiza, pensado para a **segurança e a i
 
 <img src="./assets/cards/codex.svg" width="100%" alt="Studio Codex: scripts, sistemas, jogos e plataformas de API"/>
 
-Onde produzimos **scripts, sistemas, jogos e plataformas de produção para APIs**, além das ferramentas úteis para os demais projetos do ecossistema.
+Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs**, além das ferramentas úteis para os demais projetos do seu ecossistema.
 
 `Scripts` `APIs` `Jogos` `Ferramentas`
 
@@ -101,7 +101,7 @@ Onde produzimos **scripts, sistemas, jogos e plataformas de produção para APIs
 
 <a href="https://requiem.discloud.app"><img src="./assets/cards/requiem.svg" width="100%" alt="REQUIEM Inhouse, antigo ARISE Inhouse: League of Legends"/></a>
 
-O antigo **ARISE Inhouse** agora é **REQUIEM Inhouse**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e entrega à comunidade um **Bot**, um **Launcher** e um **site** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada.
+**REQUIEM Inhouse**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e entrega à comunidade um ecossistema de; **BOT para Discord**, um **Launcher/APK** e um **site** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada em uma comunidade especializada.
 
 `League of Legends` `Riot API` `Bot` `Launcher` `Dashboard`
 
@@ -109,9 +109,9 @@ O antigo **ARISE Inhouse** agora é **REQUIEM Inhouse**: sistema de inhouse e co
 
 <br>
 
-<img src="./assets/cards/gamelandia.svg" width="100%" alt="Gamelandia: ecossistema Riot API para LoL, Valorant e outros jogos"/>
+<img src="./assets/cards/gamelandia.svg" width="100%" alt="Gamelandia: Servidor de Jogos no DISCORD!"/>
 
-Projeto que leva o mesmo ecossistema com a **Riot API** para **League of Legends, Valorant** e outros jogos.
+Projeto que leva vários BOT's e Aplicativos no Discord. Temos atualmente 3 sistemas integrados em nosso servidor para que a comunidade possa usufruir e aproveitar. Os jogos são compostos por painéis, imagem e interação em chat no Discord. Para os amantes de Pokémon, o **PokeMod** é ideal para quem gosta de colecionar cartas ou explorar nossas arenas e batalhar contra outros pokemons e outras equipes. Para os amantes de jogatinas, o **GameMod** é composto por mais de 10 minigames como; Batalha-naval, jogo da velha, dominó, jogos de cartas e muitos outros para se divertir em nossa comunidade. Acesse agora a comunidade e venha se divertir!
 
 `Riot API` `League of Legends` `Valorant` `Comunidade`
 
@@ -119,7 +119,7 @@ Projeto que leva o mesmo ecossistema com a **Riot API** para **League of Legends
 
 <a href="https://systemdpe.com"><img src="./assets/cards/system.svg" width="100%" alt="System / DPE: intranet, banco de dados e automação"/></a>
 
-Sistema profissional e moderno de **intranet completa**, com banco de dados e automatização, desenvolvido para a **DPE (Departamento Policial de Elite)**, uma polícia do **Habbo Hotel**.
+Sistema profissional e moderno de **intranet completa**, com banco de dados e automatização, desenvolvido para o **DPE (Departamento Policial de Elite)**, uma polícia no jogo **Habbo Hotel**. Utilizando API's e uma Engine, os usuários podem utilizar o sistema para suas atividades do cotidiano de forma automatizada e organizada com uma base e infraestrutura vinculada ao Site, API do jogo, Discord, Telegram e uma Engine pessoal.
 
 `Intranet` `Banco de dados` `Automação` `Habbo Hotel`
 
