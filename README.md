@@ -99,9 +99,9 @@ Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs*
 
 ### Projetos externos
 
-<a href="https://requiem.discloud.app"><img src="./assets/cards/requiem.svg" width="100%" alt="REQUIEM Inhouse, antigo ARISE Inhouse: League of Legends"/></a>
+<a href="https://requiem.discloud.app"><img src="./assets/cards/requiem.svg" width="100%" alt="Partidas Personalizadas: League of Legends"/></a>
 
-**REQUIEM**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e vincular a uma infraestrutura composta por; um **BOT para Discord**, um **Launcher/APK** e um **site** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada em uma comunidade especializada.
+**REQUIEM**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e vincular a uma infraestrutura composta por; um **BOT para Discord**, um **Launcher/APK** e um **SITE** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada.
 
 `League of Legends` `Riot API` `Bot` `Launcher` `Dashboard`
 
@@ -111,7 +111,7 @@ Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs*
 
 <img src="./assets/cards/gamelandia.svg" width="100%" alt="Gamelandia: Servidor de Jogos no DISCORD!"/>
 
-Projeto que leva vários BOT's e Aplicativos no Discord. Temos atualmente 3 sistemas integrados em nosso servidor para que a comunidade possa usufruir e aproveitar. Os jogos são compostos por painéis, imagem e interação em chat no Discord. Para os amantes de Pokémon, o **PokeMod** é ideal para quem gosta de colecionar cartas ou explorar nossas arenas e batalhar contra outros pokemons e outras equipes. Para os amantes de jogatinas, o **GameMod** é composto por mais de 10 minigames como; Batalha-naval, jogo da velha, dominó, jogos de cartas e muitos outros para se divertir em nossa comunidade. Acesse agora a comunidade e venha se divertir!
+Projeto que leva **vários BOT's e Aplicativos no Discord**. Temos atualmente **3** sistemas integrados em nosso servidor para que a comunidade possa usufruir e aproveitar. Os jogos são compostos por painéis, imagem e interação em chat no Discord. Para os amantes de Pokémon, o **PokeMod** é ideal para quem gosta de colecionar cartas ou explorar nossas arenas e batalhar contra outros pokemons e outras equipes. Para os amantes de jogatinas, o **GameMod** é composto por mais de 10 minigames como; Batalha-naval, jogo da velha, dominó, jogos de cartas e muitos outros para se divertir em nossa comunidade. Acesse agora a comunidade e venha conhecer!
 
 `Riot API` `League of Legends` `Valorant` `Comunidade`
 
@@ -119,7 +119,7 @@ Projeto que leva vários BOT's e Aplicativos no Discord. Temos atualmente 3 sist
 
 <a href="https://systemdpe.com"><img src="./assets/cards/system.svg" width="100%" alt="System / DPE: intranet, banco de dados e automação"/></a>
 
-Sistema profissional e moderno de **intranet completa**, com banco de dados e automatização, desenvolvido para o **DPE (Departamento Policial de Elite)**, uma polícia no jogo **Habbo Hotel**. Utilizando API's e uma Engine, os usuários podem utilizar o sistema para suas atividades do cotidiano de forma automatizada e organizada com uma base e infraestrutura vinculada ao Site, API do jogo, Discord, Telegram e uma Engine pessoal.
+Sistema profissional e moderno de **intranet completa**, com banco de dados e automatização, desenvolvido para o **DPE (Departamento Policial de Elite)**, uma polícia no jogo **Habbo Hotel**. Utilizando API's e uma Engine, os usuários podem utilizar o sistema para suas atividades do cotidiano de forma automatizada numa infraestrutura vinculada ao Site, API do jogo, Discord, Telegram e uma Engine pessoal.
 
 `Intranet` `Banco de dados` `Automação` `Habbo Hotel`
 
