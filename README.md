@@ -93,7 +93,7 @@ Sistema de **cybersecurity** da C.IAutomatiza, pensado para a **segurança e a i
 
 <img src="./assets/cards/codex.svg" width="100%" alt="Studio Codex: scripts, sistemas, jogos e plataformas de API"/>
 
-Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs**, além das ferramentas úteis para os demais projetos do seu ecossistema.
+Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs**, além das ferramentas úteis para um ecossistema.
 
 `Scripts` `APIs` `Jogos` `Ferramentas`
 
@@ -101,7 +101,7 @@ Onde produzimos **scripts, sistemas, sites, plataformas de produção para APIs*
 
 <a href="https://requiem.discloud.app"><img src="./assets/cards/requiem.svg" width="100%" alt="REQUIEM Inhouse, antigo ARISE Inhouse: League of Legends"/></a>
 
-**REQUIEM Inhouse**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e entrega à comunidade um ecossistema de; **BOT para Discord**, um **Launcher/APK** e um **site** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada em uma comunidade especializada.
+**REQUIEM**: sistema de inhouse e comunidade personalizada de **League of Legends**. O ecossistema é integrado à **Riot API** para coletar dados do jogo e vincular a uma infraestrutura composta por; um **BOT para Discord**, um **Launcher/APK** e um **site** com métricas, dados e partidas em tempo real com **lobbies personalizados**, sempre com foco em crescer, evoluir e se divertir de forma organizada em uma comunidade especializada.
 
 `League of Legends` `Riot API` `Bot` `Launcher` `Dashboard`
 
